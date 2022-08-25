@@ -1,0 +1,4 @@
+---
+- name: myrole.setup
+  src: https://github.com/root-inf/ansible-role-sample-setup.git
+  version: main
