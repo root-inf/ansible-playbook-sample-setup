@@ -1,7 +1,7 @@
 ---
 - hosts: all
   gather_facts: true
-  serial: 1
+  # serial: 1
 
   roles:
     - myrole_setup
